@@ -1,0 +1,5 @@
+project: spvgentwo
+target: stringlength
+
+cmds:
+  - cmd: /fuzz_stringLength

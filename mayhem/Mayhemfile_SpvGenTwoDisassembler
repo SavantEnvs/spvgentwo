@@ -1,5 +1,5 @@
 project: spvgentwo
-target: spvgentwo
+target: spvgentwodisassembler
 
 cmds:
   - cmd: /SpvGenTwoDisassembler @@
