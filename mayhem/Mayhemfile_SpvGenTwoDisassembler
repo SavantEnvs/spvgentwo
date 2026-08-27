@@ -1,0 +1,5 @@
+project: savantenvs/spvgentwo
+target: spvgentwo
+
+cmds:
+  - cmd: /mayhem/SpvGenTwoDisassembler @@

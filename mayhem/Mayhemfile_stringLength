@@ -1,0 +1,5 @@
+project: savantenvs/spvgentwo
+target: stringlength
+
+cmds:
+  - cmd: /mayhem/fuzz_stringLength
