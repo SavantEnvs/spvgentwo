@@ -1,0 +1,8 @@
+# origin: https://app.mayhem.security/mayhemheroes/spvgentwo/spvgentwo/7
+project: savantenvs/spvgentwo
+target: spvgentwo-buggy-mhh-run-7
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+
+cmds:
+  - cmd: /mayhem/SpvGenTwoDisassembler @@
